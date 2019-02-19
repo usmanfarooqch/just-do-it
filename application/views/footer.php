@@ -49,7 +49,7 @@
 
 <!-- //footer -->
 <!-- for bootstrap working -->
-	<script src="js/bootstrap.js"></script>
+	<script src="<?php echo base_url(); ?>/assets/js/bootstrap.js"></script>
 <!-- //for bootstrap working -->
 </body>
 </html>
